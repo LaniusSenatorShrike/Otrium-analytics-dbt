@@ -1,0 +1,12 @@
+otrium_recommender_feed:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: postgres
+      password: Pp@639493
+      port: 5432
+      dbname: otrium_recommender_feed
+      schema: public
+

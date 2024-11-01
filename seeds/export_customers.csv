@@ -1,0 +1,254 @@
+ot_member_id,gender,locale,address_country_code,opt_in,favourited_brands,favourited_category_names
+2ab18652-c227-58f4-8665-e77e5f746a5e,female,de-DE,DE,true,null,null
+84df6f03-b446-5e5a-bfab-1ad10cf4003d,male,nl-NL,NL,true,null,null
+92731e89-3202-5e28-9344-216921f096b8,female,de-DE,DE,null,"[""Khujo"",""Tommy Hilfiger"",""Comma"",""Cowboysbag"",""G-Star RAW"",""Calvin Klein"",""Marc O'Polo"",""Steve Madden"",""Scotch & Soda"",""Ted Baker"",""DNA Amsterdam""]",null
+f66272dd-86a7-59f6-ab3a-f9cae6d2a968,male,nl-NL,BE,true,"[""SO GOOD TO WEAR"",""KARL LAGERFELD"",""Happy Socks"",""Suitsupply"",""Hackett London"",""Van Gils"",""rag & bone""]",null
+7d4a57ed-8bbf-5ff8-9c98-6acd12c3d311,female,en-EN,null,true,"[""Scotch & Soda"",""PINKO"",""ILSE JACOBSEN HORNBÆK"",""JOSH V"",""Reiss"",""Ted Baker""]",null
+a7794ead-2e6d-559b-b2d4-8ab280849558,male,nl-NL,NL,true,"[""Marc O'Polo"",""Reiss"",""McGregor"",""Mason Garments"",""Calvin Klein"",""Tommy Hilfiger"",""Cavallaro Napoli""]",null
+8272bc20-b734-5f60-a103-919d429075da,female,nl-NL,NL,true,"[""ESPRIT"",""Claudia Strater"",""VIA VAI"",""Summum Woman""]",null
+6fa572a2-27c7-5c51-bdc5-5d810064c4e8,female,nl-NL,NL,true,"[""Scotch & Soda""]",null
+b476eea2-2e4c-5c01-8dcb-14f6042ea065,female,nl-NL,NL,true,"[""JOSH V"",""My Jewellery""]","[""Jurken"",""Schoenen""]"
+40009b0e-d0ba-5f68-b6b5-5bd509382e81,male,fr-FR,FR,true,"[""Scotch & Soda""]",null
+8710d8c0-4599-502e-8a16-929cdfcea1db,female,nl-NL,NL,true,"[""Scotch & Soda"",""Garcia"",""NIK & NIK"",""Vince""]","[""Jassen""]"
+c762a3dd-7b65-5614-8fc9-3d8c71222513,male,nl-BE,BE,true,"[""Marciano by Guess"",""Scotch & Soda"",""River Woods""]",null
+c04965dd-8dba-544d-a51e-6b56560b6361,female,nl-NL,NL,true,"[""Shabbies Amsterdam"",""Reiss"",""VIA VAI"",""Sandwich"",""NIKKIE"",""Summum Woman"",""River Woods"",""Scotch & Soda"",""Tommy Hilfiger"",""POM Amsterdam""]",null
+5212038f-ee2a-59a2-a22d-4537f654d572,male,nl-NL,NL,null,"[""Van Lier"",""Didriksons"",""SWIMS"",""Cavallaro Napoli"",""PAIGE"",""Dstrezzed"",""Marciano by Guess"",""Shiwi"",""Hackett London"",""Scotch & Soda"",""Gabbiano"",""No Excess""]",null
+440f2712-ef82-5645-b03e-17b5d76ba896,female,nl-NL,NL,null,"[""JOSH V"",""Scotch & Soda"",""Marciano by Guess"",""PINKO""]",null
+dbd0321d-c934-5cb9-90ec-555a4d11665a,female,nl-NL,NL,true,null,null
+50ccde6f-2e82-57cb-a56f-b753dfcf6157,female,nl-NL,NL,false,"[""Sandwich"",""Scotch & Soda"",""Phase Eight""]","[""Truien & Vesten""]"
+f220bd73-0aeb-5fe3-8931-edb0ac108b2b,male,de-DE,DE,true,"[""KARL LAGERFELD"",""Tommy Hilfiger"",""ASICS"",""Calvin Klein""]","[""Jeans"",""Oberteile"",""Trainers""]"
+da0f58cb-eea1-5b2c-be1d-4ff777c9e42a,female,en-EN,HR,true,"[""LK Bennett""]","[""Jackets""]"
+ba6c3c6b-8022-5bc1-8981-efc80a53373b,female,de-DE,null,false,"[""Butcher of Blue"",""Comma"",""Closed""]","[""Pullover & Strickjacken"",""Shirts & Tops"",""Kleider"",""Mäntel"",""Hosen""]"
+24a91287-caa5-5c76-b6c3-dfa5e9593636,female,nl-NL,NL,true,"[""Fabienne Chapot"",""Aaiko"",""Comma"",""Esqualo"",""Alix The Label"",""Humanoid"",""Circle of Trust"",""Alchemist"",""Sandwich"",""10DAYS"",""Dante6"",""ILSE JACOBSEN HORNBÆK"",""Jasper Conran"",""Closed"",""BY-BAR"",""Freebird""]","[""Tops & T-shirts""]"
+bc86acd9-351f-5c76-b54a-425cf0847a8f,male,nl-NL,NL,true,"[""Scotch & Soda"",""PINKO"",""Freebird""]",null
+908c913e-8955-5a9c-8d4b-2d44c1c87e3b,male,nl-NL,NL,true,"[""Lyle & Scott"",""ESPRIT"",""McGregor"",""Scotch & Soda"",""Mason Garments"",""Tommy Hilfiger"",""Van Lier"",""Floris van Bommel""]",null
+155097b3-c7b9-5a81-92cc-82868f17afb3,female,nl-NL,NL,true,null,null
+408f264f-d250-5fe6-8874-6d89714cf969,male,de-DE,DE,null,"[""Belstaff"",""Alexander McQueen""]",null
+2ddec409-8209-56ee-a646-b00e8021b6e4,male,nl-NL,NL,true,null,null
+a5f868a6-cb94-5c27-9f80-e6db81cff502,female,nl-NL,NL,true,"[""Puma"",""Floris van Bommel"",""NIKKIE"",""Shoeby"",""Jacqueline de Yong"",""Circle of Trust"",""Colourful Rebel"",""VIA VAI"",""My Jewellery"",""Shabbies Amsterdam"",""LTB Jeans"",""Cowboysbag"",""Vila"",""HOBBS"",""Schmuddelwedda"",""Zusss"",""Edited""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Jassen"",""Mantels"",""Broeken""]"
+7e25f03b-cead-5013-b70b-e4e2fab235d6,male,nl-NL,NL,true,"[""Mason Garments""]",null
+012e7f8c-4071-5476-b850-16fbd6f89edf,female,nl-NL,NL,true,"[""King Louie"",""Dante6"",""10DAYS"",""POM Amsterdam"",""Filippa K"",""Scotch & Soda"",""Fabienne Chapot"",""Zusss"",""Penn&Ink N.Y"",""Lyle & Scott""]","[""Jurken""]"
+f5e74b43-c567-5820-8b37-6c76388c8777,female,nl-NL,NL,true,null,null
+731b9729-a50c-573a-9d84-4e5bd28e208b,male,nl-NL,null,true,"[""McGregor"",""Hackett London"",""Lyle & Scott"",""Mason Garments"",""Cavallaro Napoli"",""Tommy Hilfiger""]",null
+c0383589-32d3-57c5-b674-e399797ca310,female,de-DE,DE,true,"[""Marc O'Polo"",""Comma"",""Scotch & Soda"",""Rich & Royal"",""Closed"",""Marciano by Guess"",""Didriksons""]",null
+3414ee43-31f2-51f9-8e74-2d9e39c2da73,male,en-EN,BE,null,"[""Scotch & Soda""]",null
+031e0964-cc25-59bc-be88-638d4411502a,male,nl-NL,null,null,null,null
+882543ed-d601-58f4-a13b-b62ee1aa23b1,male,nl-NL,NL,true,"[""Scotch & Soda Footwear"",""Lyle & Scott"",""Scotch & Soda"",""Tommy Hilfiger""]","[""Jassen""]"
+de262230-22ea-5863-b9b2-a59045a9cf08,female,nl-NL,NL,true,"[""JOSH V"",""Daily Paper"",""Ivy Oak"",""NA-KD"",""Marlies Dekkers"",""Scotch & Soda Footwear"",""Reiss"",""America Today"",""Tommy Hilfiger"",""Scotch & Soda"",""Filippa K"",""Marciano by Guess""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Jassen"",""Schoenen"",""Broeken"",""Truien & vesten"",""Jassen"",""Jeans"",""Mantels"",""Shirts"",""Broeken"",""Jassen"",""Truien & Vesten"",""Jurken"",""Broeken"",""T-shirts"",""Spijkerbroeken""]"
+3b898465-0c8e-528f-9614-1010df4324df,male,nl-NL,NL,true,"[""ASICS"",""Scotch & Soda""]",null
+4d709869-522d-5d80-aa67-f8ba5ea81b12,female,nl-NL,NL,true,"[""Freebird"",""Scotch & Soda"",""Alix The Label"",""Fabienne Chapot""]","[""Truien & Vesten"",""Jurken"",""Mantels""]"
+578a4295-e46f-55b8-bfeb-23d942751fdc,female,nl-NL,NL,true,null,null
+e118f262-2016-5d3e-b715-8349ae4f4fe8,female,fr-FR,FR,true,"[""Reiss""]",null
+de941861-f161-539b-97da-79957dae281c,male,nl-NL,NL,true,"[""Scotch & Soda""]","[""Shirts""]"
+87dbcdcc-23ad-58a3-9bec-c669ed34f17d,female,nl-NL,NL,null,"[""Studio 8 by Phase Eight"",""Tommy Hilfiger"",""Urban Classics"",""Claudia Strater"",""Fête Impériale"",""Oilily"",""Sandro Eyewear"",""Helen McAlinden"",""Hunkemöller"",""WE Fashion"",""TRVL DRSS"",""Royal RepubliQ"",""Björn Borg"",""Mucho Gusto"",""Steve Madden"",""Frenken"",""The GoodPeople"",""Understatement"",""Viktor & Rolf"",""McQ"",""Nubikk"",""ESPRIT"",""Scotch & Soda Footwear"",""Sandwich"",""Baron"",""Lyle & Scott"",""Calvin Klein"",""Damsel in a Dress"",""Daily Paper"",""Another Label"",""The FLEXX"",""Marc O'Polo"",""Marcell von Berlin"",""G-Star RAW"",""Natasha Zinko"",""Gaastra"",""French Connection"",""NIKKIE"",""Flattered"",""B.L.A.H."",""Herschel"",""AllSaints"",""Mipacha"",""Muroexe"",""Scotch & Soda"",""Outerknown"",""Shoeby"",""Marciano by Guess"",""America Today"",""Luisa Cerano"",""Alexander McQueen"",""Belstaff""]",null
+19b43839-a6ac-5f97-9378-9256d35eb980,male,nl-NL,NL,true,"[""Van Lier""]",null
+2673ca48-7e60-5204-b158-45223978b20d,female,de-DE,DE,true,"[""Reiss"",""Armedangels"",""Filippa K"",""Belstaff"",""Marciano by Guess""]","[""Jacken""]"
+687851ff-458e-5ffb-984b-db600ee5878d,male,es-ES,ES,null,"[""Ecoalf""]",null
+fc5a5ca1-a6d6-5659-bc94-eb7320c054ed,female,nl-NL,BE,false,"[""NA-KD"",""Love Stories"",""Reiss"",""suistudio"",""PINKO""]",null
+d511889f-115a-5a47-adb4-365c8805d2d1,female,nl-NL,NL,true,null,null
+a81a9be1-b0c2-5880-8d5e-476caa845af0,female,nl-NL,NL,true,null,null
+1826c710-7670-509e-83ce-0f9551831dcf,male,nl-NL,NL,true,"[""Scotch & Soda"",""Filling Pieces"",""Floris van Bommel"",""T.M. Lewin"",""McGregor"",""Regatta""]",null
+9c797a32-14a6-565d-9c6a-0ebb4967e490,male,de-DE,DE,true,"[""French Connection"",""Drykorn"",""ASICS"",""Pepe Jeans"",""Scotch & Soda"",""Closed"",""SELECTED Homme"",""Scotch & Soda Footwear"",""Urban Classics"",""Dreimaster"",""ESPRIT"",""adidas"",""JACK & JONES"",""Schmuddelwedda"",""Nowadays"",""Onitsuka Tiger"",""Marc O'Polo"",""Tommy Hilfiger""]","[""Pullover & Strickjacken"",""Jacken"",""Jeans"",""Oberteile""]"
+36c09980-09db-5731-99a4-ed94c04304b1,female,nl-NL,NL,true,"[""10DAYS"",""ESPRIT""]","[""Truien & Vesten""]"
+4a96621d-9905-5290-bad4-59e0f2d2caff,female,nl-BE,BE,true,"[""Expresso"",""Sandwich"",""King Louie"",""White Stuff"",""Claudia Strater"",""America Today"",""AllSaints""]","[""Broeken""]"
+f5087683-1e42-5ab8-9381-cee003f923fe,female,nl-NL,NL,true,"[""Lois"",""POM Amsterdam"",""Scotch & Soda"",""ASICS"",""Zwillingsherz"",""ICODE"",""Shabbies Amsterdam"",""Karhu""]",null
+1d732bcf-6291-52df-a4b7-1d9dc9e08d9f,female,fr-FR,FR,true,"[""Marciano by Guess"",""Tommy Hilfiger"",""DKNY"",""Paule Ka"",""Calvin Klein""]",null
+0a2e8bdd-ebc0-5af8-a18f-af7de59a3961,female,nl-NL,NL,true,"[""Reiss""]","[""Jassen""]"
+4897c139-a0f0-5451-a9e8-9bb2e004e97a,female,de-DE,DE,true,"[""Closed"",""Reiss"",""Sophia Webster"",""Svea®"",""Love Stories"",""Scotch & Soda"",""AllSaints"",""SELECTED Femme"",""adidas"",""aim'n"",""NIKKIE"",""Rich & Royal"",""Sisley""]","[""Kleider"",""Shirts & Tops"",""Mäntel""]"
+a94317a7-bbcd-53c7-ad05-61852f915d3a,male,nl-BE,BE,null,"[""Tommy Hilfiger""]",null
+d862fb96-98a1-5a58-b306-59de02e1c885,female,nl-NL,NL,true,"[""Tommy Hilfiger"",""Marc O'Polo"",""Marciano by Guess""]",null
+19be54c5-da2c-58dd-9352-a72326d32c69,male,de-DE,null,null,null,null
+f00378f9-a65c-5e06-a9f0-fb9a676e7c87,male,nl-NL,NL,true,null,null
+bacb59fb-946d-57fe-a501-ad0455cae7fd,male,nl-NL,NL,true,"[""Scotch & Soda""]",null
+89ae8129-64e5-5cd2-805d-85a755261004,male,nl-NL,NL,true,"[""Reiss"",""Hackett London"",""Calvin Klein"",""Tommy Hilfiger"",""Daily Paper"",""Floris van Bommel"",""Filippa K"",""Kings Of Indigo"",""GSUS"",""Marcell von Berlin"",""Profuomo"",""Scotch & Soda"",""Ted Baker Eyewear"",""Colourful Rebel"",""Viktor & Rolf"",""Suitsupply"",""Drykorn"",""Lyle & Scott"",""Dockers"",""Alexander McQueen""]","[""Truien & vesten"",""Jeans"",""Mantels"",""Broeken""]"
+70b15d36-e864-5644-9ead-65282a73eed3,male,nl-BE,BE,true,"[""Matinique"",""adidas"",""Björn Borg"",""Scotch & Soda""]","[""Sweaters and Cardigans"",""Jackets"",""Jeans"",""Coats"",""T-shirts"",""Trousers""]"
+b3327e74-d253-52ab-8954-14757ed3196f,female,de-DE,DE,true,"[""Closed"",""Marc O'Polo""]",null
+aeb0eea0-5561-5a8b-a311-8a2618b493c0,female,nl-NL,NL,true,"[""Fabienne Chapot"",""POM Amsterdam"",""NIKKIE""]",null
+9838f60f-5483-5b28-9e94-cfea07bdecb6,male,nl-NL,NL,true,"[""ASICS"",""Scotch & Soda""]","[""Jeans"",""Shirts""]"
+a9274d11-5060-55ac-8d86-67c9d9708f07,male,nl-NL,NL,true,"[""McGregor"",""Blackstone"",""Van Lier"",""J.C. Rags"",""Floris van Bommel"",""WE Fashion"",""Scotch & Soda"",""Calvin Klein"",""Hackett London"",""Marc O'Polo"",""Tommy Hilfiger"",""Cavallaro Napoli"",""s. Oliver"",""Suitsupply"",""Kapten & Son""]",null
+1cfe881d-a84d-558a-8a88-551de8d4ab45,male,nl-NL,NL,true,"[""Floris van Bommel"",""ZADIG&VOLTAIRE"",""AllSaints"",""Ted Baker"",""Paule Ka"",""Scotch & Soda"",""Denham"",""McQ Swallow"",""McQ"",""Reiss""]","[""Shirts"",""Truien & vesten"",""Broeken"",""Sneakers""]"
+18278247-3671-5de5-b8a2-5997460ae346,female,nl-NL,NL,true,"[""Filippa K"",""Scotch & Soda"",""Claudia Strater""]",null
+ea864b5f-983d-5f99-b39c-ad1d037826f6,female,nl-NL,NL,true,null,null
+0352fce5-c83a-5232-a258-fd199530b878,male,nl-NL,NL,true,"[""Scotch & Soda"",""ZADIG&VOLTAIRE"",""Buddha to Buddha"",""Closed"",""ETQ"",""Belstaff"",""Filling Pieces"",""Krakatau"",""The GoodPeople"",""AllSaints""]","[""Truien & vesten"",""Jassen"",""Jeans"",""Mantels"",""Shirts"",""Broeken""]"
+5f2d0e26-a43a-50b2-bb1c-4e64e2794c74,female,nl-NL,NL,true,null,null
+57d61ffc-3cdb-50ba-b10c-1eb3f7513394,male,nl-NL,NL,true,"[""Cavallaro Napoli"",""McGregor"",""Ted Baker Underwear"",""Tommy Hilfiger"",""Gymshark"",""Lyle & Scott"",""Van Lier"",""CHASIN’""]","[""Truien & vesten"",""Jassen"",""Jeans"",""Mantels"",""Shirts"",""Broeken""]"
+07b93236-a411-520e-806b-f3654b024892,female,nl-NL,NL,true,"[""Usha"",""One More Story"",""Lala Berlin"",""Wanderlust"",""Ten Cate"",""Humanoid"",""Moda in Pelle"",""Maria Tailor"",""Alix The Label"",""Ivy Oak"",""Dante6"",""More & More"",""Bianco"",""Didriksons"",""s. Oliver"",""Viktor & Rolf"",""Mart Visser"",""River Woods"",""10DAYS"",""Passionata"",""Femmes du Sud"",""ILSE JACOBSEN HORNBÆK"",""BY-BAR"",""Nubikk"",""IKKS"",""WE Fashion"",""Ibana"",""Vans"",""Vans"",""Livera"",""McGregor"",""Miss Green"",""Zusss"",""TI SENTO - Milano"",""Arma"",""Joseph"",""Monsoon"",""CYELL"",""FILA"",""Rich & Royal"",""VIA VAI"",""French Connection"",""Goosecraft"",""Smashed Lemon"",""Desigual"",""Re.draft"",""Royal RepubliQ"",""Seidensticker"",""DKNY"",""Phase Eight"",""ESPRIT"",""LTB Jeans"",""Belstaff"",""Liv Bergen"",""Sloggi"",""Purewhite"",""SuperTrash"",""Comma"",""SELECTED Femme"",""Drykorn"",""Luisa Cerano"",""Dreimaster"",""POM Amsterdam"",""JOSH V"",""Tommy Hilfiger"",""Lyle & Scott"",""Cowboysbag"",""Buddha to Buddha"",""BURKELY"",""SURI FREY"",""Oilily"",""Garcia"",""Schiesser"",""Soaked in Luxury"",""Shabbies Amsterdam"",""Paule Ka"",""Dranella"",""suistudio"",""Paul Hewitt"",""White Stuff"",""adidas"",""Studio 8 by Phase Eight"",""Leon & Harper"",""Tramontana"",""Filippa K"",""Closed"",""Freebird"",""Saint Tropez"",""Simple"",""Gant Footwear"",""Chantelle"",""Taifun"",""TRVL DRSS"",""Calvin Klein"",""Penn&Ink N.Y"",""Scotch & Soda"",""Vila"",""NIKKIE"",""Sandwich"",""Circle of Trust"",""Odd Molly"",""Atelier Gardeur"",""Fifth House"",""OTAZU"",""Reiss"",""Claudia Strater"",""InWear"",""Ruby Tuesday"",""Esqualo"",""Smaak Amsterdam"",""Minimum"",""Riani"",""Marlies Dekkers"",""Superga"",""HUB Footwear"",""Shoeby"",""Edited"",""Sapph"",""Summum Woman"",""DNA Amsterdam"",""Marc O'Polo"",""Geisha"",""Krakatau"",""Jacqueline de Yong"",""Expresso"",""OBEY"",""cop.copine"",""Marciano by Guess"",""ETQ"",""ZADIG&VOLTAIRE"",""Aaiko""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Jassen"",""Schoenen"",""Broeken""]"
+041f3721-ece1-561c-9679-6fa5a13046e3,male,de-DE,DE,true,null,null
+347d826a-2295-533b-b12f-38884327961c,female,nl-NL,NL,false,"[""Claudia Strater""]",null
+60448eed-ff49-5ef0-ae43-aeb59e005ecd,female,de-DE,DE,true,"[""Tommy Hilfiger"",""adidas""]","[""Pullover & Strickjacken"",""Shirts & Tops"",""Jacken"",""Hosen""]"
+0d77fc13-8d7c-52c1-bb19-41f7d54a92f7,female,nl-NL,NL,true,"[""Shabbies Amsterdam"",""Expresso"",""BY-BAR"",""Minimum"",""POM Amsterdam"",""Tommy Hilfiger"",""Comma"",""Summum Woman"",""ESPRIT"",""Filippa K"",""Scotch & Soda"",""VIA VAI"",""Claudia Strater"",""Humanoid"",""InWear"",""King Louie"",""Floris van Bommel"",""Fabienne Chapot"",""Garcia"",""Geisha"",""Ted Baker"",""Woden"",""Maison Hēroïne""]","[""Jurken"",""Tops & T-shirts"",""Jassen"",""Broeken"",""Truien & Vesten"",""Shirts"",""Truien & vesten"",""Jeans"",""Sneakers""]"
+0cb3f407-ccbe-5c04-ae27-2f7d0010252b,female,nl-NL,NL,true,"[""The FLEXX"",""Alix The Label"",""Arnie Says"",""John Richmond"",""Outerknown"",""PINKO"",""Reiss"",""4funkyflavours"",""Femmes du Sud"",""Fabienne Chapot"",""More & More"",""POM Amsterdam""]",null
+5b90a1d6-2910-5830-8891-393749ccab54,female,nl-NL,NL,true,"[""Bronx""]",null
+57736e30-1dfa-56c9-92da-3aa42f5dcd01,male,fr-FR,FR,true,"[""Tommy Hilfiger"",""Hackett London"",""Filippa K"",""rag & bone"",""KARL LAGERFELD"",""Suitsupply""]","[""Pulls et gilets"",""Vestes"",""Jeans"",""Manteaux"",""T-shirts"",""Pantalons""]"
+2075b2fb-09d4-5e6f-a720-f1e328c851f4,female,de-DE,DE,true,"[""adidas"",""Marciano by Guess"",""adidas by Stella McCartney"",""Rich & Royal"",""ASICS"",""0039 Italy""]","[""Pullover & Strickjacken"",""Hosen"",""Jacken"",""Jeans""]"
+3e856760-aa5d-5ae0-8067-9d61153451b0,female,de-DE,DE,true,"[""Armedangels"",""Happy Socks"",""ETQ""]",null
+6d0a7b16-4702-5a12-83d2-ba989496af9e,male,en-EN,NL,true,"[""AllSaints"",""Marc O'Polo"",""Ted Baker Underwear"",""Tommy Hilfiger"",""Hackett London"",""IKKS"",""Arena"",""Scotch & Soda"",""Daily Paper"",""Diesel"",""Lyle & Scott"",""Cavallaro Napoli"",""SWIMS"",""ASPACT"",""Bluemint"",""America Today"",""Reiss""]","[""Sweaters and Cardigans"",""Jackets"",""Jeans"",""Coats"",""T-shirts"",""Trousers""]"
+7fa7bb1c-6a22-5e1a-9b8f-0ab74ed34994,male,nl-NL,NL,true,"[""Floris van Bommel"",""Tommy Hilfiger"",""Zusss""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Jassen"",""Schoenen"",""Broeken""]"
+d5ff0093-c49f-5d27-a0dc-d6d9ca20733d,female,de-DE,DE,true,null,null
+7d3e03e4-9f87-5c9b-96fa-f22b113d67df,female,de-DE,DE,true,null,null
+8c29e5ef-422d-58a5-a137-1c150be3b01a,female,nl-NL,NL,true,"[""KARL LAGERFELD"",""Closed"",""Phase Eight"",""Scotch & Soda"",""Marciano by Guess"",""Patta"",""Gerry Weber"",""Cavallaro Napoli"",""Alexander McQueen"",""Van Lier"",""ASICS"",""Alix The Label"",""Tommy Hilfiger"",""Reiss"",""Filippa K"",""Vingino"",""Floris van Bommel"",""10DAYS"",""Summum Woman"",""Lois"",""Sandwich"",""Sapph"",""Björn Borg"",""adidas"",""Taifun"",""NIKKIE"",""suistudio"",""Freebird"",""JOSH V"",""Fabienne Chapot"",""Pepe Jeans"",""McGregor"",""Marlies Dekkers"",""Mason Garments"",""Calvin Klein"",""Shiwi""]","[""Truien & Vesten""]"
+e59810a5-fccd-553f-9c79-7bbba45b7952,male,en-EN,NL,null,null,null
+605bcdd9-b675-528b-8359-92bec2649d29,male,nl-NL,NL,true,"[""Floris van Bommel"",""Ted Baker Underwear"",""adidas"",""Filippa K"",""Scotch & Soda""]","[""Truien & vesten"",""Jassen"",""Jeans"",""Mantels"",""Shirts"",""Broeken""]"
+6d73ee15-6d68-57e4-9df8-8f69fec25170,female,nl-NL,NL,false,"[""Zoe Karssen"",""Marc O'Polo"",""ESPRIT"",""Ivy Oak"",""BY-BAR"",""Fabienne Chapot"",""Lala Berlin"",""Humanoid"",""ZADIG&VOLTAIRE"",""Nubikk"",""Penn&Ink N.Y"",""Fred de la Bretoniere"",""Closed"",""Dante6"",""PINKO"",""SO GOOD TO WEAR"",""Floris van Bommel"",""Filippa K"",""Femmes du Sud"",""Zenggi"",""Viktor & Rolf"",""Daily Paper"",""IRO Paris"",""Marcell von Berlin"",""Anecdote""]",null
+d0ed9773-195d-59bc-acfd-aa89be2ff936,female,nl-BE,BE,true,"[""French Connection"",""Alchemist"",""Gaastra"",""Comma"",""Scotch & Soda"",""IKKS"",""Blutsgeschwister"",""America Today"",""Shiwi"",""Lyle & Scott"",""Hunkemöller"",""Tramontana"",""DKNY"",""4funkyflavours"",""Minimum"",""Closed"",""King Louie"",""WE Fashion"",""Sandwich""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken""]"
+4e9cf783-2aad-513b-bbef-da353ba9aa63,female,nl-NL,NL,true,"[""JOSH V""]","[""Jurken""]"
+70c5d74c-accb-5445-a41b-5f90f241a15f,female,nl-NL,NL,true,"[""Scotch & Soda""]",null
+9c91323d-78e5-5de0-80e3-96e86488a7ad,female,de-DE,DE,true,"[""ZADIG&VOLTAIRE""]",null
+05b4660b-4d10-5f91-96a1-97f168eecb0d,female,nl-NL,NL,true,"[""TI SENTO - Milano"",""Expresso"",""Studio 8 by Phase Eight"",""Floris van Bommel"",""Smaak Amsterdam"",""Reiss"",""Notre-V"",""Smashed Lemon"",""Claudia Strater"",""SELECTED Femme"",""My Jewellery"",""Ted Baker Eyewear"",""LK Bennett"",""Phase Eight"",""Drykorn"",""Shabbies Amsterdam"",""VIA VAI"",""Scotch & Soda"",""Ted Baker"",""Filippa K"",""DKNY"",""PINKO"",""ESPRIT"",""Fred de la Bretoniere"",""Tommy Hilfiger""]","[""Jurken"",""Jassen"",""Broeken"",""Truien & Vesten"",""Mantels""]"
+668ce621-4400-5593-bb87-9d49e01654de,male,en-EN,BE,true,"[""s. Oliver"",""Marc O'Polo"",""Tommy Hilfiger"",""Hackett London"",""Filippa K"",""IKKS"",""Diesel""]","[""Sweaters and Cardigans"",""Jackets"",""Jeans"",""Coats"",""T-shirts"",""Trousers""]"
+ec6b17ce-112b-545b-baec-262119fe5f49,female,nl-NL,NL,true,"[""Marciano by Guess"",""PINKO"",""ESPRIT"",""Daily Paper"",""Filippa K"",""Scotch & Soda""]",null
+cb8a12b2-e47c-51a6-ad0c-40c52fce69d7,female,nl-NL,NL,true,"[""Aaiko"",""Tommy Hilfiger"",""JOSH V"",""In Gold We Trust"",""Nubikk"",""Dreimaster"",""POM Amsterdam"",""Motivi"",""Daily Paper"",""Buddha to Buddha"",""Steve Madden"",""Geisha"",""Bronx"",""G-Star"",""GSUS"",""Gymshark"",""Calvin Klein"",""Circle of Trust"",""Smaak Amsterdam"",""Femmes du Sud"",""Mucho Gusto"",""Scotch & Soda"",""PINKO"",""SikSilk"",""Joseph"",""Eric Bompard"",""Shoeby"",""KARL LAGERFELD"",""Reiss"",""Vingino"",""NIKKIE"",""Summum Woman"",""Trueprodigy"",""Alix The Label"",""4funkyflavours"",""Didriksons"",""A-DAM"",""Hey Honey"",""Taifun"",""Marcell von Berlin"",""aim'n"",""Shabbies Amsterdam"",""Sapph"",""Fifth House"",""Lois"",""Zwillingsherz"",""adidas"",""adidas by Stella McCartney"",""Tramontana"",""Protest"",""Drykorn"",""SELECTED Femme"",""Schmuddelwedda"",""HOBBS"",""Black Bananas"",""Wanderlust""]",null
+26c8b91e-3d0f-5fde-8bb3-2bd8b1ccb06b,male,nl-NL,NL,true,"[""Scotch & Soda"",""Tommy Hilfiger"",""Mason Garments"",""McGregor"",""Scotch & Soda Footwear""]","[""Jeans"",""Broeken""]"
+c6948c69-454a-5dc9-8830-fe749d013280,male,nl-NL,NL,true,"[""Camel Active Shoes""]","[""Jassen""]"
+47309ec9-cd53-5ec8-b98a-7adc0f4e867d,female,nl-NL,NL,true,"[""Marc O'Polo"",""Fabienne Chapot""]",null
+dd3b74eb-2990-5327-ab2b-2d66e239a30a,male,de-DE,DE,true,null,null
+66124513-21ca-55b4-8bbb-4b34c682f13e,female,fr-FR,FR,null,"[""LK Bennett""]",null
+58fdc31f-af1c-5424-8b93-5e82776271d4,male,nl-NL,NL,null,"[""Gymshark"",""IKKS"",""AllSaints"",""Mason Garments"",""McGregor"",""Marciano by Guess"",""White Stuff"",""Shiwi"",""Marc O'Polo"",""Van Lier"",""Floris van Bommel"",""Scotch & Soda"",""PAIGE"",""Tommy Hilfiger"",""Lyle & Scott"",""s. Oliver"",""Closed"",""Belstaff"",""ASICS"",""Charles Tyrwhitt"",""SWIMS"",""Reiss"",""Daily Paper"",""ESPRIT"",""Stenströms""]",null
+8ecf62b6-448f-5c44-a2c3-ed26e8fcdb69,female,nl-NL,NL,true,"[""Reiss"",""suistudio"",""LK Bennett"",""Ted Baker"",""Geisha"",""Sandwich"",""Marciano by Guess"",""Scotch & Soda"",""Alix The Label"",""Marlies Dekkers"",""NIKKIE"",""OTAZU"",""Filippa K"",""Summum Woman"",""Floris van Bommel"",""Scotch & Soda Footwear"",""One More Story"",""JOSH V"",""More & More"",""POM Amsterdam"",""Expresso"",""Cavallaro Napoli""]","[""Jurken"",""Tops & T-shirts"",""Jassen"",""Broeken"",""Truien & Vesten"",""Mantels"",""Sneakers""]"
+61a7e92b-0cf9-581e-9a6e-112bebed1174,male,de-DE,DE,true,"[""Scotch & Soda"",""Closed""]",null
+8a0aa521-d061-5085-8a01-daa932e642eb,male,de-DE,DE,true,null,null
+8b3c09c7-8066-526c-b64e-e36d8b6bec05,male,nl-NL,NL,true,"[""Suitsupply"",""suistudio"",""Marciano by Guess"",""Hunkemöller""]","[""Jurken"",""Mantels"",""Shirts"",""Broeken""]"
+023a3bc6-f28e-5a10-9a14-44ecccefa5cd,female,nl-NL,NL,true,null,null
+e0070092-3025-5b02-a0b8-6626664f89b6,female,de-DE,DE,null,"[""Closed"",""Marc O'Polo""]",null
+f40a4769-6a4e-514e-8f1e-1968098af8a3,female,de-DE,DE,true,null,null
+2e2f8371-64f8-58b6-9dfe-627cc226f0d6,male,nl-NL,NL,true,null,null
+1fc86dde-8fe4-523b-967c-64c60e662a5c,female,de-DE,DE,true,null,null
+c84ecd2f-d560-5a43-bc36-7c5171058ed6,male,de-DE,DE,true,"[""Calvin Klein"",""Pepe Jeans"",""Tigha"",""Tommy Hilfiger"",""Scotch & Soda"",""Marc O'Polo""]",null
+aa64be70-a7c3-5906-b3c9-e59f6a01a999,female,nl-NL,NL,true,"[""Marciano by Guess"",""Sandwich"",""adidas"",""JOSH V"",""Scotch & Soda"",""Mason Garments"",""ASICS"",""suistudio"",""Reiss"",""Alix The Label"",""Freebird"",""Filippa K""]",null
+ae855ff0-ab9d-5d03-8d9b-36ade0446cca,female,nl-NL,NL,true,null,null
+74ee78e9-b25d-54ad-8588-ca82b97971ce,male,nl-NL,NL,true,"[""Floris van Bommel"",""ASICS""]",null
+5ef3eb21-c58a-58a3-a2ef-ba71f9df9503,male,nl-NL,NL,null,"[""McGregor"",""ASICS"",""Tommy Hilfiger""]",null
+4b5ec654-eed2-5d1f-a7bb-c680fee27a14,male,nl-NL,NL,true,null,null
+776d6207-7b16-57ef-a943-d983348cf989,female,nl-NL,NL,true,"[""Scotch & Soda"",""ICODE"",""Freebird"",""Alix The Label""]",null
+71b89f52-497a-583d-a348-4840b01463c6,male,de-DE,DE,true,"[""Scotch & Soda"",""Minimum"",""Tigha"",""Scotch & Soda Footwear""]",null
+10d18dc3-96cf-57a5-b288-1ec76c1b441e,male,nl-NL,NL,true,"[""AllSaints""]",null
+f6210878-8275-5893-a77d-a011d7bb0384,female,de-DE,DE,true,"[""Filippa K"",""Marc O'Polo"",""Closed"",""Reiss"",""Scotch & Soda"",""Armedangels""]","[""Kleider""]"
+f5439aae-4421-5bde-9957-b87b99eb30d8,male,nl-NL,NL,true,"[""Tommy Hilfiger"",""Scotch & Soda""]",null
+7c4f22ca-4c0b-5250-9d1f-cb3450975ef9,female,nl-NL,null,true,"[""Catwalk Junkie"",""Catwalk Junkie"",""Saint Tropez"",""Phase Eight"",""AllSaints"",""Goosecraft"",""Fabienne Chapot"",""Sandwich"",""BURKELY"",""Penn&Ink N.Y"",""Pepe Jeans"",""Filippa K"",""Gant Footwear"",""King Louie"",""Claudia Strater"",""POM Amsterdam"",""Blackstone"",""IKKS"",""Summum Woman"",""Geisha"",""Reiss"",""Noppies"",""Floris van Bommel"",""Drykorn"",""Freebird"",""Oilily"",""Closed"",""10DAYS"",""Zoe Karssen"",""GSUS"",""Protest"",""Lois"",""Patta"",""Khujo"",""Scotch & Soda"",""Lala Berlin"",""Marlies Dekkers"",""Shabbies Amsterdam"",""Shiwi"",""Björn Borg"",""More & More"",""Smashed Lemon"",""Marc O'Polo"",""Colourful Rebel"",""Schiesser""]","[""Jurken"",""Tops & T-shirts"",""Jassen"",""Broeken"",""Truien & Vesten"",""Mantels""]"
+6ff7ef32-8c44-5049-aca9-d93b1ebc640e,female,nl-NL,NL,false,"[""Love Stories""]",null
+e0d5648d-d2ca-506a-bf55-e5ed0cd94d84,female,en-EN,BE,true,"[""Scotch & Soda""]",null
+361e82ef-f59c-5d22-8eb3-4909cc4e1e1e,female,de-DE,DE,true,"[""Mucho Gusto"",""Blutsgeschwister""]","[""Kleider""]"
+5abd1daf-1a0d-510b-9b1a-5ed959201aec,male,nl-NL,NL,true,"[""Floris van Bommel"",""Cavallaro Napoli"",""McGregor"",""Scotch & Soda"",""Suitsupply"",""Tommy Hilfiger""]","[""Truien & vesten"",""Shirts""]"
+91f03e78-ba32-5e40-963e-24d35f15fc4d,female,nl-NL,NL,true,"[""NIK & NIK"",""suistudio"",""Cavallaro Napoli"",""King Louie"",""Marciano by Guess"",""Alchemist"",""Moda in Pelle"",""NIKKIE""]",null
+0527fddf-3eb8-59f5-81a8-495b1d8f6331,female,nl-NL,NL,true,null,"[""Tops & T-shirts"",""Jurken""]"
+42839fb1-1975-5001-aeb5-15d26632af33,female,de-DE,DE,true,"[""Comma"",""0039 Italy""]","[""Pullover & Strickjacken"",""Shirts & Tops"",""Kleider"",""Jacken"",""Mäntel"",""Hosen""]"
+2a5379ed-0cb6-5a3d-8285-ad08b7b9d9f5,male,nl-NL,NL,true,"[""Filippa K"",""Tommy Hilfiger"",""Freebird"",""Sandwich"",""Calvin Klein"",""Pepe Jeans"",""Scotch & Soda""]","[""Jurken"",""Tops & T-shirts"",""Truien & Vesten""]"
+8b059215-0d88-59f5-999e-6b96b5f6ddd7,male,nl-NL,NL,null,null,null
+c8bb1253-ec86-50d3-a996-b79d95a1f17f,male,nl-NL,NL,null,"[""Scotch & Soda Footwear"",""Tommy Hilfiger""]",null
+55229dbf-e8ff-5a8a-8df9-1ce6c0829b85,female,nl-NL,NL,true,null,null
+3c7065a9-440b-53e5-bb3c-bbe0c7831695,female,de-DE,null,true,null,null
+4cd23fae-1b2c-5ef8-b67f-32cc61f88a5b,male,nl-NL,NL,true,null,null
+51c594b4-850f-5fcd-83b8-80ec16e3cac9,male,nl-NL,null,true,"[""ASICS"",""Butcher of Blue""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Jassen"",""Schoenen"",""Broeken""]"
+521d631c-4c88-540e-bad6-5d263e032434,female,nl-BE,BE,true,"[""Marc O'Polo"",""Glanzstücke München"",""PINKO"",""PAIGE"",""Riani"",""Lois"",""Herschel"",""rag & bone"",""Alexander McQueen"",""SO GOOD TO WEAR"",""Current/Elliott"",""VIA VAI"",""Daily Paper"",""Ted Baker Eyewear"",""DKNY"",""McGregor"",""Ecoalf"",""Lyle & Scott"",""Scotch & Soda"",""Mucho Gusto"",""Closed"",""Summum Woman"",""Livera"",""Marciano by Guess"",""Zoe Karssen"",""AllSaints"",""Khujo"",""Oscar Jacobson"",""Viktor & Rolf"",""ASPACT"",""Eric Bompard"",""Hunkydory"",""Catwalk Junkie"",""Catwalk Junkie"",""SWIMS"",""Floris van Bommel"",""River Woods"",""Joseph"",""JOSH V"",""B.L.A.H."",""Designers Remix"",""Abrand Jeans"",""Outerknown"",""Rich & Royal"",""Luisa Cerano"",""Britt Sisseck"",""IRO Paris"",""Krakatau"",""Hechter Paris"",""Jet Set"",""Humanoid"",""Gaastra"",""IKKS"",""Belstaff"",""Woodrow"",""Dante6"",""Temperley London"",""French Connection"",""ILSE JACOBSEN HORNBÆK"",""Didriksons"",""Filling Pieces"",""Marcell von Berlin"",""Boden"",""White Stuff"",""Ted Baker"",""Agent Provocateur"",""Devotion Twins"",""Freebird"",""Soulland"",""ZADIG&VOLTAIRE"",""McQ"",""Tommy Hilfiger"",""Black Bananas"",""RE/DONE"",""Ace & Tate ""]","[""Jurken""]"
+1209baaf-6b36-53fd-90eb-233aef744c0e,female,nl-BE,BE,true,"[""Cynthia Rowley"",""Faherty"",""ANINE BING"",""Adam Lippes"",""Thakoon"",""Onitsuka Tiger"",""Belstaff"",""Varley"",""ZADIG&VOLTAIRE"",""KARL LAGERFELD"",""Reiss"",""Björn Borg"",""NAADAM"",""Blank NYC"",""Rachel Zoe"",""Hanky Panky"",""ASICS"",""Eliza J""]","[""Dresses"",""Shirts and Tops"",""Jackets"",""Sweaters and Cardigans"",""Coats""]"
+4367bf75-8fbd-583e-8a99-2a11a01d1b06,female,nl-NL,NL,true,null,null
+cf5588e1-f2cd-5215-84b6-80894d60236a,male,de-DE,DE,true,null,null
+5513870c-0909-50c8-956f-75ea39df8740,female,nl-NL,NL,true,"[""JOSH V"",""ASICS"",""Marciano by Guess"",""Reiss"",""adidas"",""America Today"",""Tommy Hilfiger"",""Alix The Label"",""Scotch & Soda"",""ESPRIT"",""suistudio"",""Mason Garments"",""Sandwich"",""Filippa K""]","[""Jurken"",""Jassen"",""Truien & Vesten"",""Broeken"",""T-shirts"",""Spijkerbroeken""]"
+98c9e6fe-947b-58c3-b74b-0e4c09f26260,female,nl-NL,NL,true,"[""Tommy Hilfiger"",""Lyle & Scott"",""Marc O'Polo"",""Cavallaro Napoli"",""Scotch & Soda""]",null
+ae880fde-861d-5e8a-9abc-8b2103066242,female,nl-NL,NL,false,"[""Floris van Bommel"",""Fabienne Chapot"",""Phase Eight"",""Marlies Dekkers""]",null
+cb69ff48-154d-52f2-b2ff-1aa4ee36f59b,male,nl-NL,NL,true,"[""Oscar Jacobson"",""No Label"",""Scotch & Soda"",""Ted Baker"",""Tommy Hilfiger"",""Reiss"",""River Woods"",""Suitsupply"",""Mason Garments"",""McGregor"",""Dockers"",""RM Williams"",""Hackett London"",""Cavallaro Napoli"",""Kings Of Indigo""]","[""Truien & vesten"",""Mantels"",""Broeken""]"
+e2e6421f-6b87-5be5-bee8-5d91c78183b0,male,nl-NL,NL,null,"[""ASICS""]",null
+34f9c567-afd1-5131-8659-cf8f53f2e10c,male,en-EN,DE,null,null,null
+9b2b87af-51c4-52b7-989d-8964467af271,female,nl-NL,null,true,"[""PJ Salvage"",""Filippa K"",""PINKO"",""Dreimaster"",""Baron"",""Ines de la Fressange"",""Luisa Cerano"",""Schmuddelwedda"",""LK Bennett"",""Arnie Says"",""AllSaints"",""Liv Bergen"",""10DAYS"",""ZADIG&VOLTAIRE"",""Paule Ka"",""Reiss"",""Desigual"",""Hunkydory"",""Jet Set"",""FTC Cashmere"",""SO GOOD TO WEAR"",""Sophia Webster"",""TI SENTO - Milano"",""Ekyog"",""JOSH V"",""Whistles"",""Closed"",""Riani"",""YOUNG POETS"",""Viktor & Rolf"",""IRO Paris"",""Odd Molly"",""Buddha to Buddha""]",null
+52008b15-1187-5ceb-900f-e81c5372896a,male,nl-BE,BE,true,"[""Suitsupply"",""Scotch & Soda""]",null
+550c4d9b-cdfa-5fb7-8c65-1406140f2126,female,nl-NL,NL,true,"[""Scotch & Soda"",""Scotch & Soda Footwear""]",null
+0a94c3e0-7fac-59dc-8f9e-fc159c5655c4,female,de-DE,DE,true,"[""Femmes du Sud"",""ONE STEP"",""Name it"",""River Woods"",""Stenströms"",""Pepe Jeans"",""Helen McAlinden"",""Vingino"",""Ecoalf"",""Filippa K"",""Humanoid"",""Boden""]","[""Hosen""]"
+52494f9c-3e56-5e39-bad9-d680be54d670,female,nl-NL,NL,true,null,null
+54e5c55a-461c-5bed-ba36-100a8ebd9332,male,de-DE,DE,true,"[""Belstaff"",""Closed""]",null
+646a0b0b-7e9f-56ef-bd17-4ee29357b8e8,female,nl-NL,NL,true,"[""Summum Woman"",""adidas"",""Sandwich""]","[""Jurken"",""Jassen"",""Schoenen"",""Shirts"",""Jassen"",""Jurken"",""Spijkerbroeken""]"
+04261a56-4ee4-5480-a36a-b6632e5fa1d3,female,nl-NL,null,true,null,null
+1f91849d-7a09-5ec3-898d-a3974feb9648,male,nl-NL,NL,true,"[""Scotch & Soda"",""Björn Borg"",""Filling Pieces""]","[""Sneakers""]"
+94754437-5957-5248-a04d-ccdab2828853,female,nl-NL,null,true,null,null
+06c0f01a-425a-5a77-9615-038d8fbb6cb2,female,it-IT,IT,true,"[""adidas"",""ASICS"",""Filippa K""]","[""Scarpe"",""Tops & Maglie"",""Abiti"",""Pantaloni"",""Giacche e Cappotti"",""Jeans""]"
+ccbfcfa7-bd97-567a-9252-83ff1b64613b,male,nl-NL,NL,true,"[""Scotch & Soda"",""Tommy Hilfiger"",""Reiss"",""Suitsupply""]","[""Truien & vesten"",""Shirts""]"
+db95ea3e-9af1-523c-b3cd-32430051dfe9,female,nl-NL,Netherlands,true,null,null
+aa9084ca-6711-5839-94d1-c060dc9da1bc,male,nl-NL,NL,true,"[""Gymshark""]",null
+d9a3afa8-e2d8-5ece-b700-c3c1649c4647,female,de-DE,DE,true,null,null
+d2ba6d1f-9ae6-5782-9633-ae46a5a36f24,female,nl-NL,NL,true,"[""Floris van Bommel"",""Reiss"",""Tommy Hilfiger"",""Scotch & Soda"",""Marc O'Polo""]",null
+070bd1cf-faa4-5430-b0d3-e42391136a7a,female,nl-NL,NL,true,"[""ASICS"",""Forever New"",""Marc O'Polo"",""Tommy Hilfiger"",""Scotch & Soda"",""Moves""]",null
+b6fa0aea-db72-55b2-9d7b-76f314dd88dc,female,de-DE,DE,null,null,null
+c7825d8a-addb-5ca7-8655-10ac5b20dd79,female,de-DE,DE,null,"[""Marciano by Guess"",""Marc O'Polo"",""LK Bennett"",""Rich & Royal"",""Scotch & Soda""]",null
+8cc88c22-82f8-55d6-b3b2-dfa0105844ba,female,nl-NL,null,null,null,null
+d6096e9e-204f-50d9-b9d0-dda7a4ab0068,female,de-DE,DE,true,"[""adidas"",""Agent Provocateur""]",null
+d2498208-2804-590e-bb93-0a10e6a9e454,female,nl-NL,NL,false,null,"[""Broeken""]"
+028c0df4-7729-527d-b5e7-4dfe4f30efa7,female,nl-NL,NL,true,null,null
+ae140ded-f666-5890-ba31-7c8ff1611a86,female,nl-NL,NL,true,"[""Scotch & Soda"",""Reiss"",""JOSH V"",""Marciano by Guess""]",null
+98e88f77-b94b-57ad-a4c3-fa63fb037a75,female,en-EN,null,true,null,null
+fe9d86b0-d3e1-521a-be90-985b89975762,female,nl-NL,NL,true,"[""Elena Mirò"",""Comma"",""Expresso"",""Mart Visser"",""Claudia Strater"",""Nubikk"",""More & More"",""Geisha"",""Reiss"",""Tramontana"",""Fifth House"",""Gymshark""]","[""Tops & T-shirts""]"
+eaef0fec-ad1b-5fe9-b3de-800bf40a9d89,female,de-DE,DE,true,"[""Marc O'Polo"",""Tommy Hilfiger"",""Soulland"",""s. Oliver"",""Understatement"",""Shabbies Amsterdam""]",null
+5f241806-d525-59e7-a71c-cbdd5e1e2cb1,male,nl-NL,NL,true,"[""Anna + Nina"",""Johnstons of Elgin""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Jassen"",""Schoenen"",""Broeken"",""Truien & vesten"",""Jassen"",""Jeans"",""Mantels"",""Shirts"",""Broeken""]"
+08b2a05c-6948-5b13-9038-f10f2898fa7f,female,nl-BE,null,true,"[""Marciano by Guess""]","[""Jurken""]"
+1f2ec764-d491-5999-b38c-44172f6f50c1,female,nl-NL,NL,true,"[""B.L.A.H."",""Scotch & Soda""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Broeken"",""Truien & vesten"",""Jeans"",""Shirts"",""Jassen"",""T-shirts"",""Spijkerbroeken""]"
+3300e882-5d0e-5a1c-ad09-16c8d769ea36,male,nl-NL,NL,true,"[""ANY DI MUNICH"",""ASICS"",""Scotch & Soda"",""Armedangels"",""A-DAM"",""Calvin Klein""]","[""Broeken""]"
+07157cd0-8c19-5d5d-823e-2ad3c57f2bef,female,de-DE,DE,true,"[""Marc O'Polo"",""Zwillingsherz"",""Scotch & Soda"",""IKKS"",""ESPRIT"",""Closed"",""Tommy Hilfiger"",""Comma""]",null
+c5307a69-65fa-5788-b0fb-07f90c92674d,male,de-DE,DE,false,"[""Didriksons""]",null
+b20309d4-fcd7-554c-853c-7b805ca24f9f,male,de-DE,DE,null,"[""Tommy Hilfiger""]",null
+6d19e74a-9954-51d9-afe5-7301b02e4849,female,en-EN,HU,null,"[""Marciano by Guess"",""Gymshark"",""PAIGE"",""Scotch & Soda"",""G-Star RAW"",""Steve Madden""]",null
+96370cd9-7b30-5c50-8568-970d6ed104cc,female,nl-NL,NL,null,null,null
+597e20cc-e8a2-56c4-bd45-fdaad11e8258,female,nl-NL,NL,true,"[""10DAYS"",""Closed"",""Reiss"",""Toral Shoes"",""Daily Paper"",""Colourful Rebel""]","[""Tops & T-shirts""]"
+349fe0fb-6ae3-54b8-9798-8dbc40240839,female,de-DE,DE,false,null,null
+9fb93385-978e-5afd-bcc6-db77485811d2,female,nl-NL,NL,true,"[""Scotch & Soda"",""Filippa K"",""IKKS""]",null
+85614bd1-86d5-58ec-82da-f1dc0af51bf1,female,nl-NL,NL,true,"[""Scotch & Soda"",""Fabienne Chapot"",""HORIZN STUDIOS"",""POM Amsterdam"",""NIKKIE"",""DKNY"",""Herschel""]",null
+3d5a0f17-7e9e-542f-8c2b-cdeab6f572ae,male,nl-NL,NL,true,null,null
+619683ec-20b1-501f-aefc-0e45d5588f93,male,nl-NL,NL,true,"[""Ted Baker"",""adidas""]",null
+e02d86c8-65e2-514b-b0a4-a280fc71b809,male,nl-NL,NL,true,null,null
+2c6dedb9-3308-5b37-9f2b-077a36852038,female,nl-NL,NL,true,"[""NIKKIE"",""Tommy Hilfiger"",""adidas"",""Lois"",""Pepe Jeans"",""Scotch & Soda"",""Shiwi"",""Björn Borg"",""Calvin Klein""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Jassen"",""Mantels"",""Broeken""]"
+27875ad0-b1c6-5ee7-babd-858fabee5252,male,nl-NL,NL,true,null,"[""Truien & vesten"",""Jassen"",""Jeans""]"
+69f76a56-e0f9-5c4b-bc71-d4b5229fc831,male,nl-NL,NL,true,"[""Cavallaro Napoli"",""Scotch & Soda"",""Tommy Hilfiger"",""McGregor"",""Floris van Bommel"",""Lyle & Scott""]","[""Truien & vesten"",""Jassen"",""Jeans"",""Broeken""]"
+40e37458-85dc-5f09-a836-2880b78621bd,female,nl-NL,NL,true,"[""NA-KD"",""Filippa K"",""ASICS"",""Another Label"",""Blackstone"",""Atelier Gardeur"",""Femmes du Sud"",""Nubikk"",""Mipacha"",""ZADIG&VOLTAIRE"",""Marlies Dekkers"",""NIKKIE"",""Zoe Karssen"",""Lyle & Scott"",""Fabienne Chapot"",""Alix The Label"",""My Jewellery"",""Happy Socks""]","[""Tops & T-shirts"",""Jurken"",""Schoenen"",""Broeken""]"
+721947ef-2d52-5b4e-a78d-a29fe5ceeead,female,nl-NL,NL,null,"[""VIA VAI"",""Summum Woman"",""Sandwich""]",null
+577e265b-63fc-5e81-bcdf-4c98fd7676a5,female,nl-BE,BE,null,"[""ASICS""]",null
+7a0331ef-77ca-5a11-b87f-ca770bb39ea4,female,nl-NL,NL,true,null,null
+f0238759-6fcc-5d74-9301-2d8ecfd06c7f,male,de-DE,DE,true,"[""Belstaff"",""Comma"",""AllSaints"",""SWIMS"",""Closed"",""Blackstone"",""IKKS"",""Scotch & Soda"",""Marc O'Polo"",""Alexander McQueen"",""Tommy Hilfiger""]",null
+82dbc9da-89a9-5a5e-826f-73cf839fad82,female,de-DE,DE,false,"[""Tommy Hilfiger"",""Comma""]",null
+b4558f6b-ff34-5fb6-a1e8-ba776b3a919c,female,nl-NL,NL,true,"[""Reiss"",""Claudia Strater"",""Outerknown"",""Alchemist"",""Sandwich"",""Fabienne Chapot"",""4funkyflavours"",""Scotch & Soda"",""Another Label""]","[""Jurken"",""Broeken"",""Mantels""]"
+18f0f846-4e20-53ec-82fd-900398cafb84,female,nl-NL,null,true,"[""Filippa K"",""Freebird""]",null
+d5da3b0f-0c08-5768-af4a-53af7070a38d,female,nl-NL,NL,true,"[""Reiss""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Jassen"",""Schoenen"",""Broeken"",""T-shirts"",""Spijkerbroeken""]"
+80834b7d-bcbf-5ea2-b8ae-bf9a46efa157,female,de-DE,DE,true,"[""Reiss"",""Expresso"",""IRO Paris"",""ESPRIT"",""PINKO"",""Comma"",""ICODE"",""Marciano by Guess"",""Scotch & Soda"",""Outerknown""]",null
+b317b1cc-b7e0-56c4-a43c-817332a4e54e,male,nl-BE,null,true,null,null
+7e63a321-83c1-5ed3-9255-62fadb644125,male,nl-NL,NL,true,"[""Patta"",""Scotch & Soda"",""adidas"",""Tommy Hilfiger""]","[""Truien & vesten"",""Jassen"",""Mantels"",""Shirts"",""Broeken""]"
+bb03be5f-82be-5b0e-9a6c-feaf64e691b2,male,fr-FR,BE,true,"[""No Label"",""Scotch & Soda""]",null
+4f9b0325-5459-571e-aa6d-3b1b6edad786,female,nl-NL,NL,true,null,null
+67a6e4b8-b4fb-592d-9504-829ae3642d38,female,nl-NL,NL,false,null,null
+79340a67-dc52-5de7-b99c-f98ae02b1c72,male,nl-NL,NL,true,"[""Patta"",""ASICS"",""Scotch & Soda"",""Tommy Hilfiger"",""Cavallaro Napoli"",""McGregor""]","[""Truien & vesten"",""Mantels"",""Shirts"",""Broeken""]"
+0abf9472-6e9a-58c6-96a1-a7ef003e8e06,female,nl-NL,NL,true,"[""Reiss"",""Phase Eight"",""King Louie"",""IKKS"",""DKNY"",""Marciano by Guess"",""G-Star RAW""]",null
+80bc4407-aac9-51cb-b303-ffe34dfbd588,female,nl-NL,NL,true,"[""JOSH V"",""My Jewellery""]",null
+a22bed66-2359-586f-9458-7a08ac432b63,male,nl-NL,NL,true,"[""ASICS""]",null
+b3aa1711-e150-5f66-8da4-626f9717f0fc,female,nl-NL,NL,null,"[""Daily Paper"",""Tommy Hilfiger"",""ESPRIT"",""Geisha"",""Shoeby""]",null
+742caa18-8681-51f3-8fe3-06c31222d92e,female,nl-NL,NL,true,"[""Scotch & Soda"",""JOSH V""]","[""Jurken"",""Schoenen"",""T-shirts""]"
+20a2ae74-c929-595f-a320-f8cf168757d9,male,de-DE,DE,null,"[""ASICS"",""Didriksons"",""Marc O'Polo"",""Comma"",""River Woods""]",null
+11d1c615-da97-5333-9bd6-583e41685636,female,nl-NL,NL,true,"[""Scotch & Soda""]","[""Truien & Vesten""]"
+481b6ca1-5dad-5490-98d7-2c4d330bc753,female,nl-NL,BE,true,"[""adidas"",""Scotch & Soda"",""Reiss"",""ASICS"",""Filippa K"",""Closed""]","[""Truien & Vesten"",""Tops & T-shirts"",""Mantels"",""Broeken""]"
+e3d906b6-7199-5fe4-9e0a-9cc1d535e9d3,male,nl-NL,NL,true,"[""Daily Paper"",""McQ"",""ZADIG&VOLTAIRE"",""RE/DONE"",""AllSaints"",""Marcell von Berlin""]",null
+b4a4c0cc-3623-5002-90cc-8afc68bfb41d,female,nl-NL,NL,true,"[""Scotch & Soda"",""Alix The Label"",""Mason Garments""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Jassen"",""Schoenen"",""Broeken""]"
+42374902-30a9-514c-a682-8d0f1939f176,male,nl-NL,NL,true,null,null
+2a41f402-d0c0-5b0c-bab9-db4db5ad2e83,male,nl-NL,NL,true,"[""Shiwi"",""Scotch & Soda""]",null
+2d82d459-e109-5909-9c3e-3b26cd00dcfc,male,nl-NL,NL,null,null,null
+71422981-0bc5-538a-b8f8-30a1691fc3c2,male,nl-NL,NL,null,"[""Scotch & Soda"",""Hackett London"",""Tommy Hilfiger"",""McGregor"",""Floris van Bommel""]",null
+5b35fc97-a47f-5b02-9570-de4ef430002e,female,nl-NL,null,true,"[""Freebird"",""LK Bennett"",""PINKO"",""IKKS"",""Scotch & Soda"",""JOSH V"",""Dante6"",""Catwalk Junkie"",""Catwalk Junkie"",""Ted Baker"",""Marciano by Guess"",""Colourful Rebel""]",null
+7307a8f5-bdef-5069-8229-7be7f110be8a,female,nl-BE,BE,true,"[""Scotch & Soda"",""Sandwich"",""adidas"",""River Woods""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jassen"",""Schoenen"",""Shirts""]"
+9436f4f7-dfcd-56d5-b5e1-43402d3e9b74,male,de-DE,DE,true,"[""ASICS""]",null
+b2540181-6e7f-534f-b8c8-432996de4827,female,nl-BE,BE,true,"[""Scotch & Soda"",""NIKKIE"",""PINKO"",""Marciano by Guess"",""adidas"",""Catwalk Junkie"",""Catwalk Junkie"",""NA-KD""]","[""Tops & T-shirts"",""Jurken"",""Schoenen"",""Broeken""]"
+f7f18281-1dac-59be-9dd4-0e160b2267da,female,de-DE,DE,true,"[""Zwillingsherz"",""Closed"",""Puma"",""Rich & Royal"",""adidas""]","[""Pullover & Strickjacken"",""Shirts & Tops"",""Jacken"",""Mäntel"",""Hosen""]"
+90dfd276-b479-5835-b11a-59f73dd9f4a6,female,nl-NL,NL,true,null,null
+03d0d24c-314d-5046-923f-7e9f01283500,male,nl-NL,NL,true,"[""Scotch & Soda"",""Didriksons"",""Tommy Hilfiger""]","[""Truien & vesten"",""Shirts""]"
+3dab3a08-335c-55a6-bf20-4cc8375af6e4,female,nl-NL,NL,true,"[""Dante6"",""NIKKIE"",""Marciano by Guess"",""Freebird"",""Scotch & Soda"",""KARL LAGERFELD"",""Fifth House"",""Ted Baker""]","[""Jurken"",""Truien & vesten"",""Shirts"",""Truien & Vesten"",""T-shirts"",""Spijkerbroeken""]"
+0957eede-76ee-546c-9ae8-23b10c4bb150,male,nl-NL,NL,true,"[""Filippa K"",""IRO Paris""]",null
+2af9b8ce-5dc2-569e-9e7b-0ee89f122fb0,female,nl-NL,NL,true,"[""ESPRIT"",""Sandwich"",""More & More"",""Geisha"",""JOSH V"",""Puma"",""Expresso"",""Cowboysbag"",""Summum Woman"",""ASICS"",""Scotch & Soda"",""adidas""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Jassen"",""Schoenen"",""Broeken""]"
+13f55483-1fd0-5c62-8d88-b76ba702abb7,female,nl-NL,NL,true,"[""adidas"",""Scotch & Soda""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Jassen"",""Schoenen"",""Broeken"",""Jeans"",""Shirts"",""Jurken""]"
+ac23de16-6434-5be2-a61d-04fc1cee1ec4,female,nl-NL,NL,true,"[""Tumble ’n Dry"",""Scotch & Soda"",""Vingino"",""Little Indians"",""NIK & NIK"",""Name it""]","[""Jassen""]"
+5d988a57-0587-52cb-9f83-e9ee9f1b67b6,female,nl-BE,BE,true,null,null
+1ebfb7a4-ade1-5a07-abe0-bf44191630f7,female,nl-NL,NL,true,null,null
+41a04839-aa5e-5335-8f5d-46b590d393b7,male,nl-NL,NL,true,"[""Cavallaro Napoli"",""Tommy Hilfiger"",""Scotch & Soda"",""Blackstone"",""Profuomo"",""Mason Garments"",""McGregor"",""Dstrezzed"",""River Woods""]","[""Truien & vesten"",""Jassen"",""Jeans"",""Mantels"",""Shirts"",""Broeken""]"
+4e9914b0-014d-557e-8fd9-500d5297a801,male,nl-NL,NL,false,null,null
+7f1de5e1-4047-5f4b-9c60-69a9b21dd181,female,nl-NL,NL,null,null,null
+1b195703-aa34-5fdf-81fa-bef577aeac17,male,pl-PL,null,null,"[""Gymshark""]",null
+44249d24-36b4-51fa-af35-677aa804438f,male,it-IT,IT,null,null,null
+7465b59b-1e65-5499-89c5-a812607d0ced,female,nl-BE,BE,null,"[""Scotch & Soda""]",null
+f4bfa77f-35d5-56e2-b9af-87d5b34c410f,male,nl-NL,NL,null,"[""ASICS""]",null
+1ad3bf40-93f7-5c09-bda4-a4ce06e8311c,male,nl-NL,NL,true,"[""Scotch & Soda""]",null
+42d7904f-5664-5e1b-84cf-8e16ba7a81fb,male,nl-NL,NL,true,"[""Filling Pieces"",""Filippa K"",""Cavallaro Napoli"",""Scotch & Soda""]","[""Jassen"",""Truien & vesten"",""Broeken"",""Jeans"",""Sneakers""]"
+300034df-3b81-5867-aa02-1d3f38e48a68,female,de-DE,DE,false,"[""Closed"",""Marc O'Polo"",""Comma"",""Zwillingsherz"",""Tommy Hilfiger""]",null
+e0f66d1b-f337-5a5e-9def-fdafe43126de,female,nl-NL,NL,true,null,null
+0d7aa745-bcc7-599d-98de-d157b50f10e3,male,nl-NL,NL,true,null,null
+eb7d6fb3-1fca-5a18-9af8-9bc4e9ee2d1d,female,nl-NL,NL,true,"[""Scotch & Soda"",""VIA VAI"",""10DAYS"",""Expresso""]","[""Truien & Vesten"",""Tops & T-shirts"",""Jurken"",""Broeken"",""Truien & vesten"",""Jassen"",""Mantels"",""Shirts"",""Truien & Vesten"",""Broeken"",""T-shirts"",""Spijkerbroeken""]"

@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: "data quality checks for the model"
+    columns:
+      - name: ot_member_id
+        description: "Unique identifier for each record"
+        tests:
+          - unique
+          - not_null
